@@ -19,5 +19,4 @@ It allows users to manage books by adding them, checking them in/out, and viewin
 - Built a menu-driven CLI program
 - Managed book availability state
 
-## Author
-Moaaz Mohamed
+
